@@ -1,2 +1,0 @@
-#!/bin/bass
-pwd©
